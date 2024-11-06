@@ -1,0 +1,12 @@
+{
+    "BYTE_RATE_THRESHOLD": 1048576,
+    "INTERVAL": 10,
+    "PROTOCOL_THRESHOLDS": {
+        "HTTP": 500000,
+        "DNS": 100000,
+        "FTP": 200000,
+        "DEFAULT": 1048576
+    },
+    "MAX_CONNECTION_DURATION": 300,
+    "MAX_CONNECTION_ATTEMPTS": 5
+}
