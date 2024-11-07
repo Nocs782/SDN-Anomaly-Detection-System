@@ -1,6 +1,5 @@
 import requests
 import time
-import os
 import json
 import logging
 
@@ -68,17 +67,21 @@ def detect_long_lived_connections(flow, switch_id):
 def detect_frequent_connections(flow, switch_id):
     src_ip = flow.get('match', {}).get('ipv4_src')
     dst_ip = flow.get('match', {}).get('ipv4_dst')
-    if src_ip and dst_ip:
+    dst_port = flow.get('match', {}).get('tcp_dst')
+    
+    if src_ip and dst_ip and dst_port:
         if src_ip not in connection_attempts:
             connection_attempts[src_ip] = set()
-        connection_attempts[src_ip].add(dst_ip)
+        connection_attempts[src_ip].add((dst_ip, dst_port))
+        
         if len(connection_attempts[src_ip]) > MAX_CONNECTION_ATTEMPTS:
             alert_message = (
                 f"ALERT: Frequent connections detected! Switch ID: {switch_id}, "
-                f"Source IP: {src_ip}, Multiple Destinations"
+                f"Source IP: {src_ip}, Multiple Destinations or Ports"
             )
             print(alert_message)
             logging.info(alert_message)
+            connection_attempts[src_ip] = set()
 
 def detect_anomalies(flow_stats):
     global previous_flow_data
@@ -97,8 +100,6 @@ def detect_anomalies(flow_stats):
             if flow_id in previous_flow_data:
                 prev_flow = previous_flow_data[flow_id]
                 byte_rate = calculate_byte_rate(flow, prev_flow)
-                
-                print(f"DEBUG: Flow {flow_id} - Byte Rate: {byte_rate:.2f} bytes/s - Protocol Threshold: {protocol_threshold}")
 
                 if byte_rate > protocol_threshold:
                     alert_message = (
@@ -119,7 +120,6 @@ def detect_anomalies(flow_stats):
 if __name__ == "__main__":
     print("Starting anomaly detection...")
     while True:
-        os.system('clear')
         flow_stats = get_flow_stats()
         if flow_stats:
             detect_anomalies(flow_stats)

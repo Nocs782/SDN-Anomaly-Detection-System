@@ -1,0 +1,494 @@
+2024-11-07 19:33:45,006 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007199657394176, Duration: 3 seconds, Byte Rate: 26122730.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:33:47,015 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007199657394176, Duration: 5 seconds, Byte Rate: 26632208.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:33:49,028 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007199657394176, Duration: 7 seconds, Byte Rate: 24547490.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:33:51,041 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007199657394176, Duration: 9 seconds, Byte Rate: 26386088.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:33:53,053 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007199657394176, Duration: 11 seconds, Byte Rate: 13914620.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:34:56,800 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200093601792, Duration: 2 seconds, Byte Rate: 26385270.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:34:58,808 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200093601792, Duration: 4 seconds, Byte Rate: 26385270.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:35:00,815 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200093601792, Duration: 6 seconds, Byte Rate: 26385204.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:35:02,823 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200093601792, Duration: 8 seconds, Byte Rate: 26254000.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:35:04,833 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200093601792, Duration: 10 seconds, Byte Rate: 18902880.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:36:51,570 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200563363840, Duration: 2 seconds, Byte Rate: 1448898.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:36:51,570 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200580141056, Duration: 2 seconds, Byte Rate: 6129760476.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:36:51,572 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200848576512, Duration: 2 seconds, Byte Rate: 5264292.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:36:53,592 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200563363840, Duration: 4 seconds, Byte Rate: 2828152.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:36:53,593 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200580141056, Duration: 4 seconds, Byte Rate: 5720693708.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:36:53,593 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200848576512, Duration: 4 seconds, Byte Rate: 4740396.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:36:55,610 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200563363840, Duration: 6 seconds, Byte Rate: 5581426.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:36:55,611 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200580141056, Duration: 6 seconds, Byte Rate: 5677060694.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:36:55,611 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200848576512, Duration: 6 seconds, Byte Rate: 4263096.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:36:57,622 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200563363840, Duration: 8 seconds, Byte Rate: 3416274.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:36:57,623 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200580141056, Duration: 8 seconds, Byte Rate: 5804399568.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:36:57,624 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200848576512, Duration: 8 seconds, Byte Rate: 4560558.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:36:57,625 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 301 seconds
+2024-11-07 19:36:59,634 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200563363840, Duration: 10 seconds, Byte Rate: 1554878.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:36:59,636 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200580141056, Duration: 10 seconds, Byte Rate: 6350385684.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:36:59,638 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200848576512, Duration: 10 seconds, Byte Rate: 5262576.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:36:59,639 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 303 seconds
+2024-11-07 19:37:01,649 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200563363840, Duration: 12 seconds, Byte Rate: 1583644.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:01,650 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200580141056, Duration: 12 seconds, Byte Rate: 6300606010.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:01,651 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200848576512, Duration: 12 seconds, Byte Rate: 5279538.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:01,652 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 305 seconds
+2024-11-07 19:37:03,663 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200563363840, Duration: 14 seconds, Byte Rate: 1497346.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:03,663 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200580141056, Duration: 14 seconds, Byte Rate: 6379327434.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:03,663 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200848576512, Duration: 14 seconds, Byte Rate: 5346792.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:03,663 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 307 seconds
+2024-11-07 19:37:05,672 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200563363840, Duration: 16 seconds, Byte Rate: 1777436.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:05,674 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200580141056, Duration: 16 seconds, Byte Rate: 5945721298.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:05,675 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200848576512, Duration: 16 seconds, Byte Rate: 5041644.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:05,676 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 309 seconds
+2024-11-07 19:37:07,685 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200563363840, Duration: 18 seconds, Byte Rate: 1553364.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:07,687 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200580141056, Duration: 18 seconds, Byte Rate: 6382750556.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:07,688 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200848576512, Duration: 18 seconds, Byte Rate: 5317554.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:07,689 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 311 seconds
+2024-11-07 19:37:09,701 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200563363840, Duration: 20 seconds, Byte Rate: 1662372.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:09,703 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200580141056, Duration: 20 seconds, Byte Rate: 6283863744.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:09,703 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200848576512, Duration: 20 seconds, Byte Rate: 5268384.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:09,704 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 313 seconds
+2024-11-07 19:37:11,718 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200563363840, Duration: 22 seconds, Byte Rate: 1648746.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:11,718 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200580141056, Duration: 22 seconds, Byte Rate: 6349439524.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:11,719 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200848576512, Duration: 22 seconds, Byte Rate: 5259510.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:11,719 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 315 seconds
+2024-11-07 19:37:13,737 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200563363840, Duration: 24 seconds, Byte Rate: 9434352.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:13,740 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200580141056, Duration: 24 seconds, Byte Rate: 4358787632.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:13,742 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200848576512, Duration: 24 seconds, Byte Rate: 2546724.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:13,745 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 317 seconds
+2024-11-07 19:37:15,765 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200563363840, Duration: 26 seconds, Byte Rate: 8754824.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:15,766 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200580141056, Duration: 26 seconds, Byte Rate: 3708839708.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:15,767 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200848576512, Duration: 26 seconds, Byte Rate: 1811076.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:15,770 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 319 seconds
+2024-11-07 19:37:17,781 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200563363840, Duration: 28 seconds, Byte Rate: 4952808.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:17,782 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200580141056, Duration: 28 seconds, Byte Rate: 5448994274.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:17,783 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200848576512, Duration: 28 seconds, Byte Rate: 4388862.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:17,784 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 321 seconds
+2024-11-07 19:37:19,798 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200563363840, Duration: 30 seconds, Byte Rate: 5290490.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:19,798 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200580141056, Duration: 30 seconds, Byte Rate: 5390143958.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:19,799 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200848576512, Duration: 30 seconds, Byte Rate: 4197336.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:19,799 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 323 seconds
+2024-11-07 19:37:21,813 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200563363840, Duration: 32 seconds, Byte Rate: 4052730.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:21,813 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200580141056, Duration: 32 seconds, Byte Rate: 5679662610.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:21,813 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200848576512, Duration: 32 seconds, Byte Rate: 4816878.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:21,813 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 325 seconds
+2024-11-07 19:37:23,823 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200563363840, Duration: 34 seconds, Byte Rate: 4289268.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:23,824 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200580141056, Duration: 34 seconds, Byte Rate: 5798820662.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:23,826 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200848576512, Duration: 34 seconds, Byte Rate: 4814436.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:23,827 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 327 seconds
+2024-11-07 19:37:25,842 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200563363840, Duration: 36 seconds, Byte Rate: 4271116.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:25,842 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200580141056, Duration: 36 seconds, Byte Rate: 6295790384.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:25,842 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200848576512, Duration: 36 seconds, Byte Rate: 5013558.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:25,842 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 329 seconds
+2024-11-07 19:37:27,855 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200563363840, Duration: 38 seconds, Byte Rate: 3052626.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:27,855 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200580141056, Duration: 38 seconds, Byte Rate: 6021126880.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:27,855 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200848576512, Duration: 38 seconds, Byte Rate: 4884066.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:27,856 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 331 seconds
+2024-11-07 19:37:29,870 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200563363840, Duration: 40 seconds, Byte Rate: 5246010.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:29,872 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200580141056, Duration: 40 seconds, Byte Rate: 5923579284.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:29,875 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200848576512, Duration: 40 seconds, Byte Rate: 4595976.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:29,875 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 333 seconds
+2024-11-07 19:37:31,886 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200563363840, Duration: 42 seconds, Byte Rate: 6289816.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:31,888 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200580141056, Duration: 42 seconds, Byte Rate: 4702294740.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:31,889 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200848576512, Duration: 42 seconds, Byte Rate: 3485550.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:31,890 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 335 seconds
+2024-11-07 19:37:33,899 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200563363840, Duration: 44 seconds, Byte Rate: 2313458.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:33,900 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200580141056, Duration: 44 seconds, Byte Rate: 4490746404.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:33,900 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007200848576512, Duration: 44 seconds, Byte Rate: 3861660.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:37:33,900 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 337 seconds
+2024-11-07 19:37:35,913 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 339 seconds
+2024-11-07 19:37:37,923 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 341 seconds
+2024-11-07 19:37:39,932 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 343 seconds
+2024-11-07 19:37:41,942 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 345 seconds
+2024-11-07 19:37:43,950 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 347 seconds
+2024-11-07 19:37:45,957 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 349 seconds
+2024-11-07 19:37:47,967 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 351 seconds
+2024-11-07 19:37:49,974 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 353 seconds
+2024-11-07 19:37:51,994 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 355 seconds
+2024-11-07 19:37:54,006 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 357 seconds
+2024-11-07 19:37:56,024 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 360 seconds
+2024-11-07 19:37:58,040 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 362 seconds
+2024-11-07 19:38:00,049 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 364 seconds
+2024-11-07 19:38:02,059 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 366 seconds
+2024-11-07 19:38:04,069 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 368 seconds
+2024-11-07 19:38:06,085 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 370 seconds
+2024-11-07 19:38:08,093 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 372 seconds
+2024-11-07 19:38:10,102 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 374 seconds
+2024-11-07 19:38:12,110 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 376 seconds
+2024-11-07 19:38:14,118 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 378 seconds
+2024-11-07 19:38:16,128 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 380 seconds
+2024-11-07 19:38:18,140 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 382 seconds
+2024-11-07 19:38:20,152 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 384 seconds
+2024-11-07 19:38:22,165 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 386 seconds
+2024-11-07 19:38:24,175 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 388 seconds
+2024-11-07 19:38:26,184 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 390 seconds
+2024-11-07 19:38:28,194 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 392 seconds
+2024-11-07 19:38:30,201 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 394 seconds
+2024-11-07 19:38:32,208 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 396 seconds
+2024-11-07 19:38:34,217 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 398 seconds
+2024-11-07 19:38:36,224 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 400 seconds
+2024-11-07 19:38:38,234 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 402 seconds
+2024-11-07 19:38:40,244 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 404 seconds
+2024-11-07 19:38:42,253 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 406 seconds
+2024-11-07 19:38:44,261 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 408 seconds
+2024-11-07 19:38:46,269 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 410 seconds
+2024-11-07 19:38:48,321 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 412 seconds
+2024-11-07 19:38:50,328 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 414 seconds
+2024-11-07 19:38:52,336 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 416 seconds
+2024-11-07 19:38:54,346 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 418 seconds
+2024-11-07 19:38:56,354 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 420 seconds
+2024-11-07 19:38:58,363 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 422 seconds
+2024-11-07 19:39:00,371 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 424 seconds
+2024-11-07 19:39:02,379 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 426 seconds
+2024-11-07 19:39:04,386 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 428 seconds
+2024-11-07 19:39:06,397 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 430 seconds
+2024-11-07 19:39:08,418 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 432 seconds
+2024-11-07 19:39:10,429 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 434 seconds
+2024-11-07 19:39:12,441 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 436 seconds
+2024-11-07 19:39:14,453 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 438 seconds
+2024-11-07 19:39:16,467 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 440 seconds
+2024-11-07 19:39:18,536 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 442 seconds
+2024-11-07 19:39:20,555 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 444 seconds
+2024-11-07 19:39:22,563 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 446 seconds
+2024-11-07 19:39:24,579 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 448 seconds
+2024-11-07 19:39:26,588 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 450 seconds
+2024-11-07 19:39:28,601 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 452 seconds
+2024-11-07 19:39:30,613 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 454 seconds
+2024-11-07 19:39:32,621 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 456 seconds
+2024-11-07 19:39:34,632 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 458 seconds
+2024-11-07 19:39:36,643 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 460 seconds
+2024-11-07 19:39:38,657 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 462 seconds
+2024-11-07 19:39:40,667 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 464 seconds
+2024-11-07 19:39:42,679 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 466 seconds
+2024-11-07 19:39:44,693 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 468 seconds
+2024-11-07 19:39:46,702 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 470 seconds
+2024-11-07 19:39:48,725 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 472 seconds
+2024-11-07 19:39:50,734 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 474 seconds
+2024-11-07 19:39:52,742 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 476 seconds
+2024-11-07 19:39:54,751 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 478 seconds
+2024-11-07 19:39:56,760 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 480 seconds
+2024-11-07 19:39:58,771 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 482 seconds
+2024-11-07 19:40:00,782 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 484 seconds
+2024-11-07 19:40:02,789 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 486 seconds
+2024-11-07 19:40:04,803 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 488 seconds
+2024-11-07 19:40:06,810 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 490 seconds
+2024-11-07 19:40:08,822 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 492 seconds
+2024-11-07 19:40:10,832 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 494 seconds
+2024-11-07 19:40:12,844 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 496 seconds
+2024-11-07 19:40:14,854 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 498 seconds
+2024-11-07 19:40:16,864 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 500 seconds
+2024-11-07 19:40:18,891 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 502 seconds
+2024-11-07 19:40:20,901 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 504 seconds
+2024-11-07 19:40:22,913 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 506 seconds
+2024-11-07 19:40:24,927 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 508 seconds
+2024-11-07 19:40:26,938 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 510 seconds
+2024-11-07 19:40:28,952 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 512 seconds
+2024-11-07 19:40:30,964 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 514 seconds
+2024-11-07 19:40:32,972 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 516 seconds
+2024-11-07 19:40:34,982 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 518 seconds
+2024-11-07 19:40:36,991 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 520 seconds
+2024-11-07 19:40:39,004 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 522 seconds
+2024-11-07 19:40:41,012 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 525 seconds
+2024-11-07 19:40:43,021 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 527 seconds
+2024-11-07 19:40:45,030 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 529 seconds
+2024-11-07 19:40:47,041 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 531 seconds
+2024-11-07 19:40:49,065 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 533 seconds
+2024-11-07 19:40:51,076 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 535 seconds
+2024-11-07 19:40:53,090 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 537 seconds
+2024-11-07 19:40:55,101 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 539 seconds
+2024-11-07 19:40:57,110 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 541 seconds
+2024-11-07 19:40:59,120 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 543 seconds
+2024-11-07 19:41:01,136 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 545 seconds
+2024-11-07 19:41:03,146 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 547 seconds
+2024-11-07 19:41:05,160 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 549 seconds
+2024-11-07 19:41:07,170 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 551 seconds
+2024-11-07 19:41:09,178 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 553 seconds
+2024-11-07 19:41:11,186 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 555 seconds
+2024-11-07 19:41:13,194 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 557 seconds
+2024-11-07 19:41:15,214 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 559 seconds
+2024-11-07 19:41:17,224 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 561 seconds
+2024-11-07 19:41:19,231 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 563 seconds
+2024-11-07 19:41:21,244 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 565 seconds
+2024-11-07 19:41:23,252 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 567 seconds
+2024-11-07 19:41:25,262 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 569 seconds
+2024-11-07 19:41:27,269 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 571 seconds
+2024-11-07 19:41:29,280 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 573 seconds
+2024-11-07 19:41:31,305 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 575 seconds
+2024-11-07 19:41:33,311 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 577 seconds
+2024-11-07 19:41:35,322 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 579 seconds
+2024-11-07 19:41:37,329 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 581 seconds
+2024-11-07 19:41:39,337 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 583 seconds
+2024-11-07 19:41:41,346 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 585 seconds
+2024-11-07 19:41:43,355 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 587 seconds
+2024-11-07 19:41:45,365 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 589 seconds
+2024-11-07 19:43:28,703 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 692 seconds
+2024-11-07 19:43:30,712 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 694 seconds
+2024-11-07 19:43:32,719 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 696 seconds
+2024-11-07 19:43:34,729 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 698 seconds
+2024-11-07 19:43:36,741 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 700 seconds
+2024-11-07 19:43:38,749 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 702 seconds
+2024-11-07 19:43:40,759 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 704 seconds
+2024-11-07 19:43:42,766 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 706 seconds
+2024-11-07 19:43:44,773 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 708 seconds
+2024-11-07 19:43:46,779 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 710 seconds
+2024-11-07 19:43:48,787 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 712 seconds
+2024-11-07 19:43:50,807 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 714 seconds
+2024-11-07 19:43:52,814 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 716 seconds
+2024-11-07 19:45:13,326 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007201167343616, Duration: 10 seconds, Byte Rate: 23758290.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:45:19,354 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007201569996800, Duration: 3 seconds, Byte Rate: 26254000.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:45:21,360 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007201569996800, Duration: 5 seconds, Byte Rate: 26385270.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:45:23,368 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007201569996800, Duration: 7 seconds, Byte Rate: 29395462.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:45:25,378 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007201569996800, Duration: 9 seconds, Byte Rate: 26254000.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:45:27,386 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007201569996800, Duration: 11 seconds, Byte Rate: 9054536.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:45:54,917 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007202106867712, Duration: 3 seconds, Byte Rate: 26252420.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:45:56,928 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007202106867712, Duration: 5 seconds, Byte Rate: 26383756.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:45:58,935 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007202106867712, Duration: 7 seconds, Byte Rate: 26515026.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:46:00,949 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007202106867712, Duration: 9 seconds, Byte Rate: 26385270.00 bytes/s (Threshold: 1048576)
+2024-11-07 19:46:37,612 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007202576629760, Duration: 3 seconds, Byte Rate: 26254000.00 bytes/s (Threshold: 6000000)
+2024-11-07 19:46:39,620 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007202576629760, Duration: 5 seconds, Byte Rate: 26385270.00 bytes/s (Threshold: 6000000)
+2024-11-07 19:46:41,629 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007202576629760, Duration: 8 seconds, Byte Rate: 30190942.00 bytes/s (Threshold: 6000000)
+2024-11-07 19:46:43,640 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007202576629760, Duration: 10 seconds, Byte Rate: 28354188.00 bytes/s (Threshold: 6000000)
+2024-11-07 19:47:10,941 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007203432267776, Duration: 2 seconds, Byte Rate: 26252486.00 bytes/s (Threshold: 6000000)
+2024-11-07 19:47:12,952 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007203432267776, Duration: 4 seconds, Byte Rate: 26382176.00 bytes/s (Threshold: 6000000)
+2024-11-07 19:47:14,959 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007203432267776, Duration: 6 seconds, Byte Rate: 26385270.00 bytes/s (Threshold: 6000000)
+2024-11-07 19:47:16,966 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007203432267776, Duration: 8 seconds, Byte Rate: 26385270.00 bytes/s (Threshold: 6000000)
+2024-11-07 19:47:18,976 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007203432267776, Duration: 10 seconds, Byte Rate: 25466380.00 bytes/s (Threshold: 6000000)
+2024-11-07 19:49:14,531 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007203700703232, Duration: 3 seconds, Byte Rate: 105147270.00 bytes/s (Threshold: 50000000)
+2024-11-07 19:49:16,541 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007203700703232, Duration: 5 seconds, Byte Rate: 123784186.00 bytes/s (Threshold: 50000000)
+2024-11-07 19:49:18,547 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007203700703232, Duration: 7 seconds, Byte Rate: 105658130.00 bytes/s (Threshold: 50000000)
+2024-11-07 19:49:20,561 - INFO - ALERT: High byte rate detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 9007203700703232, Duration: 9 seconds, Byte Rate: 105125942.00 bytes/s (Threshold: 50000000)
+2024-11-07 19:49:22,572 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 302 seconds
+2024-11-07 19:49:24,585 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 304 seconds
+2024-11-07 19:49:26,594 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 307 seconds
+2024-11-07 19:49:28,612 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 309 seconds
+2024-11-07 19:49:30,624 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 311 seconds
+2024-11-07 19:49:32,633 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 313 seconds
+2024-11-07 19:49:34,642 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 315 seconds
+2024-11-07 19:49:36,654 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 317 seconds
+2024-11-07 19:49:38,665 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 319 seconds
+2024-11-07 19:49:40,673 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 321 seconds
+2024-11-07 19:49:42,685 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 323 seconds
+2024-11-07 19:49:44,699 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 325 seconds
+2024-11-07 19:49:46,715 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 327 seconds
+2024-11-07 19:49:48,723 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 329 seconds
+2024-11-07 19:49:50,733 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 331 seconds
+2024-11-07 19:49:52,743 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 333 seconds
+2024-11-07 19:49:54,753 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 335 seconds
+2024-11-07 19:49:56,762 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 337 seconds
+2024-11-07 19:49:58,768 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 339 seconds
+2024-11-07 19:50:00,778 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 341 seconds
+2024-11-07 19:50:02,790 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 343 seconds
+2024-11-07 19:50:09,787 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 350 seconds
+2024-11-07 19:50:11,797 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 352 seconds
+2024-11-07 19:50:13,807 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 354 seconds
+2024-11-07 19:50:15,818 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 356 seconds
+2024-11-07 19:50:17,827 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 358 seconds
+2024-11-07 19:50:19,847 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 360 seconds
+2024-11-07 19:50:21,855 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 362 seconds
+2024-11-07 19:50:23,864 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 364 seconds
+2024-11-07 19:50:25,874 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 366 seconds
+2024-11-07 19:50:27,880 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 368 seconds
+2024-11-07 19:50:29,888 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 370 seconds
+2024-11-07 19:50:31,900 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 372 seconds
+2024-11-07 19:50:33,918 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 374 seconds
+2024-11-07 19:50:35,927 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 376 seconds
+2024-11-07 19:50:37,937 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 378 seconds
+2024-11-07 19:50:39,973 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 380 seconds
+2024-11-07 19:50:41,986 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 382 seconds
+2024-11-07 19:50:43,996 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 384 seconds
+2024-11-07 19:50:46,005 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 386 seconds
+2024-11-07 19:50:48,012 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 388 seconds
+2024-11-07 19:50:50,043 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 390 seconds
+2024-11-07 19:50:52,053 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 392 seconds
+2024-11-07 19:50:54,061 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 394 seconds
+2024-11-07 19:50:56,070 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 396 seconds
+2024-11-07 19:50:58,078 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 398 seconds
+2024-11-07 19:51:00,086 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 400 seconds
+2024-11-07 19:51:02,095 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 402 seconds
+2024-11-07 19:51:04,103 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 404 seconds
+2024-11-07 19:56:22,574 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 301 seconds
+2024-11-07 19:56:24,640 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 303 seconds
+2024-11-07 19:56:26,648 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 305 seconds
+2024-11-07 19:56:28,656 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 307 seconds
+2024-11-07 19:56:30,664 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 309 seconds
+2024-11-07 19:56:32,672 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 311 seconds
+2024-11-07 19:56:34,680 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 313 seconds
+2024-11-07 19:56:36,688 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 315 seconds
+2024-11-07 19:56:38,697 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 317 seconds
+2024-11-07 19:56:40,704 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 319 seconds
+2024-11-07 19:56:42,713 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 321 seconds
+2024-11-07 19:56:44,723 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 323 seconds
+2024-11-07 19:56:46,731 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 325 seconds
+2024-11-07 19:56:48,739 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 327 seconds
+2024-11-07 19:56:50,749 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 329 seconds
+2024-11-07 19:56:52,759 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 331 seconds
+2024-11-07 19:56:54,820 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 333 seconds
+2024-11-07 19:56:56,829 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 335 seconds
+2024-11-07 19:56:58,840 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 337 seconds
+2024-11-07 19:57:00,851 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 339 seconds
+2024-11-07 19:57:02,862 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 341 seconds
+2024-11-07 19:57:04,873 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 343 seconds
+2024-11-07 19:57:06,879 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 345 seconds
+2024-11-07 19:57:08,894 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 347 seconds
+2024-11-07 19:57:10,904 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 349 seconds
+2024-11-07 19:57:12,913 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 352 seconds
+2024-11-07 19:57:15,124 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 354 seconds
+2024-11-07 19:57:17,131 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 356 seconds
+2024-11-07 19:57:19,189 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 358 seconds
+2024-11-07 19:57:21,200 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 360 seconds
+2024-11-07 19:57:23,212 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 362 seconds
+2024-11-07 19:57:25,222 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 364 seconds
+2024-11-07 19:57:27,239 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 366 seconds
+2024-11-07 19:57:29,252 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 368 seconds
+2024-11-07 19:57:31,267 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 370 seconds
+2024-11-07 19:57:33,276 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 372 seconds
+2024-11-07 19:57:35,298 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 374 seconds
+2024-11-07 19:57:37,316 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 376 seconds
+2024-11-07 19:57:39,331 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 378 seconds
+2024-11-07 19:57:41,342 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 380 seconds
+2024-11-07 19:57:43,353 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 382 seconds
+2024-11-07 19:57:45,361 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 384 seconds
+2024-11-07 19:57:47,371 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 386 seconds
+2024-11-07 19:57:49,378 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 388 seconds
+2024-11-07 19:57:51,387 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 390 seconds
+2024-11-07 19:57:53,400 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 392 seconds
+2024-11-07 19:57:55,409 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 394 seconds
+2024-11-07 19:57:57,417 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 396 seconds
+2024-11-07 19:57:59,441 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 398 seconds
+2024-11-07 19:58:01,451 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 400 seconds
+2024-11-07 19:58:03,457 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 402 seconds
+2024-11-07 19:58:05,465 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 404 seconds
+2024-11-07 19:58:07,475 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 406 seconds
+2024-11-07 19:58:09,484 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 408 seconds
+2024-11-07 19:58:11,495 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 410 seconds
+2024-11-07 19:58:13,502 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 412 seconds
+2024-11-07 19:58:15,514 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 414 seconds
+2024-11-07 19:58:17,521 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 416 seconds
+2024-11-07 19:58:19,530 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 418 seconds
+2024-11-07 19:58:21,537 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 420 seconds
+2024-11-07 19:58:23,546 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 422 seconds
+2024-11-07 19:58:25,563 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 424 seconds
+2024-11-07 19:58:27,573 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 426 seconds
+2024-11-07 19:58:29,583 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 428 seconds
+2024-11-07 19:58:31,594 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 430 seconds
+2024-11-07 19:58:33,601 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 432 seconds
+2024-11-07 19:58:35,614 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 434 seconds
+2024-11-07 19:58:37,632 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 436 seconds
+2024-11-07 19:58:39,643 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 438 seconds
+2024-11-07 19:58:41,651 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 440 seconds
+2024-11-07 19:58:43,659 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 442 seconds
+2024-11-07 19:58:45,669 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 444 seconds
+2024-11-07 19:58:47,679 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 446 seconds
+2024-11-07 19:58:49,687 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 448 seconds
+2024-11-07 19:58:51,702 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 450 seconds
+2024-11-07 19:58:53,711 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 452 seconds
+2024-11-07 19:58:55,914 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 454 seconds
+2024-11-07 19:58:57,926 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 457 seconds
+2024-11-07 19:58:59,935 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 459 seconds
+2024-11-07 19:59:01,944 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 461 seconds
+2024-11-07 19:59:03,956 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 463 seconds
+2024-11-07 19:59:05,969 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 465 seconds
+2024-11-07 19:59:07,976 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 467 seconds
+2024-11-07 19:59:09,983 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 469 seconds
+2024-11-07 19:59:11,993 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 471 seconds
+2024-11-07 19:59:14,003 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 473 seconds
+2024-11-07 19:59:16,013 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 475 seconds
+2024-11-07 19:59:18,021 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 477 seconds
+2024-11-07 19:59:20,028 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 479 seconds
+2024-11-07 20:07:23,818 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 301 seconds
+2024-11-07 20:07:25,824 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 303 seconds
+2024-11-07 20:07:27,836 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 305 seconds
+2024-11-07 20:07:29,844 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 307 seconds
+2024-11-07 20:07:31,997 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 309 seconds
+2024-11-07 20:07:34,010 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 311 seconds
+2024-11-07 20:07:36,018 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 313 seconds
+2024-11-07 20:07:38,026 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 315 seconds
+2024-11-07 20:07:40,036 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 317 seconds
+2024-11-07 20:07:42,045 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 319 seconds
+2024-11-07 20:07:44,062 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 321 seconds
+2024-11-07 20:07:46,072 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 323 seconds
+2024-11-07 20:07:48,083 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 325 seconds
+2024-11-07 20:07:50,143 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 327 seconds
+2024-11-07 20:07:52,154 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 329 seconds
+2024-11-07 20:07:54,163 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 331 seconds
+2024-11-07 20:07:56,172 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 333 seconds
+2024-11-07 20:07:58,179 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 335 seconds
+2024-11-07 20:08:00,190 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 337 seconds
+2024-11-07 20:08:02,464 - INFO - ALERT: Long-lived connection detected! Switch ID: 00:00:00:00:00:00:00:01, Flow ID (cookie): 0, Duration: 339 seconds
+2024-11-07 20:12:24,723 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:12:26,729 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:12:28,734 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:12:30,737 - ERROR - Failed to reach Floodlight after multiple attempts.
+2024-11-07 20:12:31,757 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:12:33,763 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:12:35,780 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:12:37,784 - ERROR - Failed to reach Floodlight after multiple attempts.
+2024-11-07 20:12:38,792 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:12:40,796 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:12:42,828 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:12:44,839 - ERROR - Failed to reach Floodlight after multiple attempts.
+2024-11-07 20:12:45,847 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:12:47,858 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:12:49,865 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:12:51,870 - ERROR - Failed to reach Floodlight after multiple attempts.
+2024-11-07 20:12:52,875 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:12:54,881 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:12:56,889 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:12:58,892 - ERROR - Failed to reach Floodlight after multiple attempts.
+2024-11-07 20:12:59,902 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:13:01,907 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:13:03,918 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:13:05,921 - ERROR - Failed to reach Floodlight after multiple attempts.
+2024-11-07 20:13:06,926 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:13:08,931 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:13:10,937 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:13:12,950 - ERROR - Failed to reach Floodlight after multiple attempts.
+2024-11-07 20:13:13,958 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:13:15,965 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:13:17,973 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:13:19,976 - ERROR - Failed to reach Floodlight after multiple attempts.
+2024-11-07 20:13:20,992 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:13:22,999 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:13:25,007 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:13:27,010 - ERROR - Failed to reach Floodlight after multiple attempts.
+2024-11-07 20:13:28,035 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:13:30,048 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:13:32,054 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:13:34,061 - ERROR - Failed to reach Floodlight after multiple attempts.
+2024-11-07 20:13:35,063 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:13:37,069 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:13:39,086 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:13:41,088 - ERROR - Failed to reach Floodlight after multiple attempts.
+2024-11-07 20:13:42,106 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:13:44,118 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:13:46,127 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:13:48,146 - ERROR - Failed to reach Floodlight after multiple attempts.
+2024-11-07 20:13:49,154 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:13:51,160 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:13:53,166 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:13:55,168 - ERROR - Failed to reach Floodlight after multiple attempts.
+2024-11-07 20:13:56,176 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:13:58,189 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:14:00,194 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:14:02,196 - ERROR - Failed to reach Floodlight after multiple attempts.
+2024-11-07 20:14:03,201 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:14:05,223 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:14:07,227 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:14:09,230 - ERROR - Failed to reach Floodlight after multiple attempts.
+2024-11-07 20:14:10,241 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:14:12,243 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:14:14,249 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:14:16,256 - ERROR - Failed to reach Floodlight after multiple attempts.
+2024-11-07 20:14:17,262 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:14:19,283 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:14:21,288 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:14:23,291 - ERROR - Failed to reach Floodlight after multiple attempts.
+2024-11-07 20:14:24,294 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:14:26,305 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:14:28,313 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:14:30,315 - ERROR - Failed to reach Floodlight after multiple attempts.
+2024-11-07 20:14:31,319 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:14:33,324 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:14:35,331 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:14:37,334 - ERROR - Failed to reach Floodlight after multiple attempts.
+2024-11-07 20:14:38,337 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:14:40,342 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:14:42,350 - WARNING - Could not connect to Floodlight. Please check if the controller is running.
+2024-11-07 20:14:44,353 - ERROR - Failed to reach Floodlight after multiple attempts.

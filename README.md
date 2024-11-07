@@ -48,7 +48,7 @@ pip install requests
 2. **Set Up Mininet Topology**:
    Create a Mininet topology with two hosts and one switch, with Floodlight as the remote controller:
    ```bash
-   sudo mn --topo single,2 --controller=remote,ip=127.0.0.1,port=6653 --switch ovsk,protocols=OpenFlow13
+   sudo python3 topology.py
    ```
 
 3. **Run xterm for Hosts**:
@@ -117,8 +117,9 @@ The script relies on a configuration file, `config.json`, to set thresholds for 
    hping3 -S 10.0.0.2 -p 80 -c 5
    hping3 -S 10.0.0.2 -p 443 -c 5
    hping3 -S 10.0.0.2 -p 21 -c 5
+   hping3 -S 10.0.0.2 -p 22 -c 5
+   hping3 -S 10.0.0.2 -p 53 -c 5
    ```
-
 ## Results and Logs
 
 Alerts are saved in `anomaly_log.txt`, recording details such as:
